@@ -1,2 +1,3 @@
-0 Snowflake
-1 Discord
+0 Chick
+1 Duck
+2 Human
