@@ -1,4 +1,4 @@
-# This is an educational repository, used for experimental learning. This is not a complete project to be reviewed
+# This is an educational repository, used for experimental learning. This is not a complete project to be reviewed.
 
 ## TeachableMachine
 
