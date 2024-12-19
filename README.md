@@ -1,4 +1,6 @@
-# TeachableMachine
+# This is an educational repository, used for experimental learning. This is not a complete project to be reviewed
+
+## TeachableMachine
 
 This is a GitHub Repository for using Teachable Machine with StreamLit cloud. 
 
